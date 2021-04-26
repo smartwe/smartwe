@@ -2,7 +2,7 @@
 ![cover](https://user-images.githubusercontent.com/73765768/115991530-d7c42200-a603-11eb-9f54-5c07ec47e86c.png)
 
 - [ ] be a Developer
-- [x] go to jugol
+- [x] go to Jugol
 - [x] make some projects
 
 ### Hi there :wave:
