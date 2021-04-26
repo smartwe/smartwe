@@ -1,7 +1,11 @@
 ## smartwe
 ![cover](https://user-images.githubusercontent.com/73765768/115991530-d7c42200-a603-11eb-9f54-5c07ec47e86c.png)
 
-### Hi there 😀
+- [ ] be a Developer
+- [x] go to jugol
+- [x] make some projects
+
+### Hi there :wave:
 [![Github Followers](https://img.shields.io/github/followers/smartwe?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/smartwe?tab=followers)
 
 ##### here are some tasks.
@@ -24,6 +28,8 @@
 |[![trophy](https://github-profile-trophy.vercel.app/?username=smartwe&theme=chalk&row=2&column=3)](https://github.com/smartwe)|  
 |[![status](https://github-readme-streak-stats.herokuapp.com/?user=smartwe&)](#)|
 
+### ex code
+
 <!-- Code -->
 C
 ``` C
@@ -36,6 +42,6 @@ int main()
 }
 ```
 PYTHON
-```
+```python
 print("Hello World)
 ```
