@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 |currently learning|C|
 |looking for help with| C studying together|
 |Ask me about| C
-|How to reach me|sparklingwee@gmail.com
+|How to reach me|<a href="mailto:sparklingwee@gmail.com">sparklingwee@gmail.com</a>|
 |Pronouns|thanks for seeing me|
 <!-- Table -->
 |status|
@@ -22,14 +22,3 @@ Here are some ideas to get you started:
 |[![Github Profile](https://github-readme-stats.vercel.app/api?username=smartwe&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/smartwe)|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=smartwe&theme=chalk&row=2&column=3)](https://github.com/smartwe)|  
 |[![status](https://github-readme-streak-stats.herokuapp.com/?user=smartwe&)](#)|
-<!DOCTYPE html>
-<html lang="kr" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-  </head>
-  <body>
-    <strong><p>
-      <a href="mailto:sparklingwee@gmail.com">email me</a>
-    </p></strong>
-  </body>
-</html>
