@@ -23,3 +23,19 @@
 |[![Github Profile](https://github-readme-stats.vercel.app/api?username=smartwe&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/smartwe)|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=smartwe&theme=chalk&row=2&column=3)](https://github.com/smartwe)|  
 |[![status](https://github-readme-streak-stats.herokuapp.com/?user=smartwe&)](#)|
+
+<!-- Code -->
+C
+``` C
+#include <stido.h>
+int main()
+{
+  printf("Hello World");
+
+  return 0;
+}
+```
+PYTHON
+```
+print("Hello World)
+```
