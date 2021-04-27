@@ -43,5 +43,5 @@ int main()
 ```
 PYTHON
 ```python
-print("Hello World)
+print("Hello World")
 ```
