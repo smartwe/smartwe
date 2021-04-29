@@ -7,7 +7,7 @@
 
 ### Hi there :wave:
 [![Github Followers](https://img.shields.io/github/followers/smartwe?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/smartwe?tab=followers)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmartwe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/smartwe)
 ##### here are some tasks.
 
 <!-- Table -->
