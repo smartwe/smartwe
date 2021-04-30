@@ -29,6 +29,8 @@
 |[![status](https://github-readme-streak-stats.herokuapp.com/?user=smartwe&)](#)|
 
 [![smartwe's github activity graph](https://activity-graph.herokuapp.com/graph?username=smartwe&bg_color=d1ebff&color=9e4c98&line=2986ff&point=06d0cc&area=true&hide_border=true)](https://github.com/smartwe/graph-maker)
+![image](https://user-images.githubusercontent.com/73765768/116647587-dbfe8f80-a9b5-11eb-804e-43f5eee3b0d4.png)
+
 
 ### ex code
 
