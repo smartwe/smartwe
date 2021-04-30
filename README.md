@@ -48,4 +48,3 @@ PYTHON
 print("Hello World")
 ```
 
-<canvas id="isometric-contributions" width="1000" height="600" style="width: 100%; user-select: auto;"></canvas>
