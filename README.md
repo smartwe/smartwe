@@ -22,7 +22,7 @@
 <!-- Table -->
 |status|
 |:--|
-|[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ziozio1201)](https://solved.ac/smartwe)|
+|[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=smartwe)](https://solved.ac/smartwe)|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartwe&layout=compact&hide=Visual%20Basic)](https://github.com/smartwe)|
 |[![Github Profile](https://github-readme-stats.vercel.app/api?username=smartwe&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/smartwe)|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=smartwe&theme=chalk&row=2&column=3)](https://github.com/smartwe)|  
