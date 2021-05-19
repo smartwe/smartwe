@@ -1,7 +1,7 @@
 ## :wave: Hello!
 
 ### sites :electric_plug:
-[![favicon](https://user-images.githubusercontent.com/73765768/118676912-c5ba5580-b836-11eb-8e55-8a0137365ebb.png)](https://smartwe.github.io/homepage)
+[![favicon](https://user-images.githubusercontent.com/73765768/118676912-c5ba5580-b836-11eb-8e55-8a0137365ebb.png)](https://smartwe.github.io)
 
 ### who am I:question:
 ![cover](https://user-images.githubusercontent.com/73765768/115991530-d7c42200-a603-11eb-9f54-5c07ec47e86c.png)
