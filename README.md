@@ -65,3 +65,7 @@ HTML
 ```html
 Hello World!
 ```
+PEEK
+```PEEK
+write("Hello World!");
+```
