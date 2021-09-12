@@ -21,10 +21,10 @@
 <!-- Table -->
 |Task|Description|
 |:--|:--| 
-|currently working|on C/JUGOL|
+|currently working|on C++|
 |currently learning|C|
-|looking for help with| C studying together|
-|Ask me about| C
+|looking for help with| C++ studying together|
+|Ask me about| C++
 |How to reach me|<a href="mailto:sparklingwee@gmail.com">sparklingwee@gmail.com</a>|
 |Pronouns|thanks for seeing me|
 <!-- Table -->
