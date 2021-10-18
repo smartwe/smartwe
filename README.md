@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=smartwe&fontSize=100)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&multiline=true&lines=Hello+World!!;I'm+leaving+in+Korea;My+main+programming+lang+is+Python%2C+C%2B%2B)](https://git.io/typing-svg)
 
 ## :wave: Hello!
 
