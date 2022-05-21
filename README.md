@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&multiline=true&width=650&height=150&lines=Hello+World!!;I'm+living+in+Korea;My+main+programming+lang+is+Python%2C+C%2B%2B)](https://github.com/smartwe)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=40&center=true&multiline=true&width=650&height=150&lines=Hello+World!!;I'm+living+in+Korea;My+main+programming+lang+is+Python%2C+C%2B%2B)](https://github.com/smartwe)
 
 ## :wave: Hello!
 
