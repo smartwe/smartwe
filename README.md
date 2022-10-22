@@ -2,6 +2,8 @@
 
 ## :wave: Hello!
 
+[![Discord](https://discord.c99.nl/widget/theme-3/781885371592081419.png)](http://discord.com/users/781885371592081419)
+
 ### sites :electric_plug:
 [![favicon](https://user-images.githubusercontent.com/73765768/118676912-c5ba5580-b836-11eb-8e55-8a0137365ebb.png)](https://smartwe.github.io)
 
