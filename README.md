@@ -11,8 +11,7 @@
 ![cover](https://user-images.githubusercontent.com/73765768/115991530-d7c42200-a603-11eb-9f54-5c07ec47e86c.png)
 
 ### donate
-[![donatly](https://user-images.githubusercontent.com/73765768/207367410-8476047b-283f-4a68-a284-b36c2ae9589b.png)](https://donatly.us/iframe/btn_pink?username=smartwe&fontsize=18)
-
+[![donatly](https://user-images.githubusercontent.com/73765768/207367410-8476047b-283f-4a68-a284-b36c2ae9589b.png)](https://www.donatly.us/u/smartwe)
 - [ ] be a Developer
 - [x] make some projects
 
