@@ -10,6 +10,9 @@
 ### who am I:question:
 ![cover](https://user-images.githubusercontent.com/73765768/115991530-d7c42200-a603-11eb-9f54-5c07ec47e86c.png)
 
+### donate
+<iframe src="https://donatly.us/iframe/btn_pink?username=smartwe&fontsize=18"  height="38" width="110" style="border-radius: 5px;"></iframe>
+
 - [ ] be a Developer
 - [x] make some projects
 
