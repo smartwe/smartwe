@@ -23,13 +23,14 @@
 ### Hi there :wave:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=smartwe)](https://solved.ac/smartwe)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=smartwe&theme=warm)](https://solved.ac/smartwe/)
-
-
 [![Github Followers](https://img.shields.io/github/followers/smartwe?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/smartwe?tab=followers)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmartwe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/smartwe)
 
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=smartwe&theme=warm)](https://solved.ac/smartwe/)
 [![LSolveRank](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=smartwe)](https://solved.ac/profile/smartwe)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartwe&layout=compact&hide=Visual%20Basic)](https://github.com/smartwe)
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=smartwe&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/smartwe)
 [![trophy](https://github-profile-trophy.vercel.app/?username=smartwe&theme=chalk&row=2&column=3)](https://github.com/smartwe)
